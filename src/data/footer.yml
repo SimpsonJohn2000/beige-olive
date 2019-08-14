@@ -1,6 +1,6 @@
 content: '&copy; Stackbit-Libris. All rights reserved.'
 links:
-  - text: Made with Stackbit
-    url: 'https://www.stackbit.com'
-    new_window: true
+  - new_window: true
+    text: Durham Public Schools
+    url: www.dpsnc.net
 has_social: true
