@@ -6,6 +6,9 @@ import DocsSubmenu from './DocsSubmenu';
 
 export default class DocsMenu extends React.Component {
     render() {
+        
+        console.log(this.props);
+        
         let site = _.get(this.props, 'site');
         let page = _.get(this.props, 'page');
         let root_page_path = _.get(site, 'data.doc_sections.root_folder') + 'index.md';
