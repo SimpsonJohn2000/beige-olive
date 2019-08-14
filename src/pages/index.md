@@ -37,6 +37,10 @@ sections:
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
           tincidunt ut tellus. Vivamus rhoncus mattis varius.
         title: Style Guides
+      - actions:
+          - label: Update
+        content: Staff Directory
+        title: Directory
     section_id: features
     type: featuresblock
   - actions:
