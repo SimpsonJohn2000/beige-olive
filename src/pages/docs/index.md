@@ -7,7 +7,7 @@ menus:
 template: docs
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt id ante id varius. Fusce a gravida dolor.
+This is the index page for the docs option
 
 ***
 
